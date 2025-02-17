@@ -1,0 +1,28 @@
+.top {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .top a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  .top a:hover {
+    background-color: #575757;
+  }
+  
+  .log-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .log-btn:hover {
+    background-color: #45a049;
+  }
